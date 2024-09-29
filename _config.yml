@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chi-Ming Chung"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Chi-Ming Chung"
 description              : &description "Research Assistant, Academia Sinica"
@@ -21,10 +21,10 @@ repository               : "MarvinChung/MarvinChung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "easy_penguin.jpg"
   name             : "Chi-Ming Chung"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning and Robotics Researcher specializing in Brain-Computer Interfaces (BCI) with a focus on developing intelligent systems that bridge neural and physical interactions."
+  bio              : "Computer Vision and Robotics researcher focused on integrating Brain-Computer Interfaces (BCI) with robotics to enhance prosthetic technology."
   location         : "Taiwan"
   employer         : "Academia Sinica"
   uri              : # URL
@@ -43,8 +43,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/MarvinChung"
-  kaggle           : "https://www.kaggle.com/mingupingu" 
+  github           : "MarvinChung"
+  kaggle           : "mingupingu" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/chi-ming-chung-444875134/"
+  linkedin         : "chi-ming-chung-444875134/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -273,13 +273,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
