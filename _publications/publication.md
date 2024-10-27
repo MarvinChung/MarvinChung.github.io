@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 ### 2024
-- **Real-Time RGBD-SLAM with 2D Gaussian Splatting and Generalized Iterative Closest Point for Enhanced Geometric Accuracy in Map Representation**  
-  *Submitted for Review*
 
 - **AED: Adaptable Error Detection for Few-shot Imitation Policy**  
   *Accepted at NeurIPS 2024*  
